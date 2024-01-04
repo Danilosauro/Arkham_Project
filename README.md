@@ -1,9 +1,9 @@
 # Arkham_Project
-## Analyzing sentiments in songs chosen by pacients from a brazilian asylum. 
+Analyzing sentiments in songs chosen by pacients from a brazilian asylum. 
 
-## Here we aim to use NLP analysis to evaluate sentiments in songs (by using libraries 'Vader' and 'Spacy') and also check possible connections between the songs chosen by the interns in the asylum, their symptoms (related with drug abuse, abstinence, addiction,  autism or insanity) and the treatment received.  
+Here we aim to use NLP analysis to evaluate sentiments in songs (by using libraries 'Vader' and 'Spacy') and also check possible connections between the songs chosen by the interns in the asylum, their symptoms (related with drug abuse, abstinence, addiction,  autism or insanity) and the treatment received.  
 
-# Files: 
+Files: 
 
 * Arkahm_Project.jpynb - NLP and sentiment analysis by using 'Spacy' and 'Vader'.
 * Audio_Signal_Processing.jpynb - Audio processing by using 'librosa' to extract informations about sound frequencies and try to stablish correlations between waves, frequencies and feelings.
