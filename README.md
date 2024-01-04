@@ -9,6 +9,8 @@ Files:
 * Audio_Signal_Processing.jpynb - Audio processing by using 'librosa' to extract informations about sound frequencies and try to stablish correlations between waves, frequencies and feelings.
 * preprocessing.jpynb - To get lyrics from website by using 'vagalume' and 'pandas'.  See informations about vagalume library here: https://github.com/vagalume/api-exemplos
 
+Notes: 
+
 * **The unique goal with this project is to achieve scientific knowledge.**
 * **All interns and theirs identities were preserved.**
 
